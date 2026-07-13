@@ -1,0 +1,35 @@
+{
+  "name": "PAC DEVIL AAA",
+  "short_name": "PAC DEVIL",
+  "description": "A modern HTML5 arcade game inspired by Pac-Man with AI ghosts, devil traps and power-ups.",
+  "start_url": "/PAC-DEVIL-game/",
+  "scope": "/PAC-DEVIL-game/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000814",
+  "theme_color": "#00ffd5",
+  "categories": ["games", "entertainment"],
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/banner.png",
+      "sizes": "1983x793",
+      "type": "image/png",
+      "label": "PAC DEVIL AAA — Gameplay"
+    }
+  ]
+}
